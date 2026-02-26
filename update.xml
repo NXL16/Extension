@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gupdate xmlns='http://www.google.com/updateflash/statustext/1.0' protocol='2.0'>
+  <app appid='ID_CỦA_EXTENSION_BẠN'>
+    <updatecheck codebase='LINK_RAW_CỦA_FILE_CHROME_HELPER_CRX' version='1.0' />
+  </app>
+</gupdate>
